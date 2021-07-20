@@ -1,0 +1,8 @@
+MyWebService\resources\HelloWorldResource.class
+MyWebService\resources\EmployeeResource.class
+MyWebService\TroyWebServiceApplication$1.class
+MyWebService\TroyWebServiceApplication.class
+MyWebService\db\EmployeeDAO.class
+MyWebService\TroyWebServiceConfiguration.class
+MyWebService\api\Saying.class
+MyWebService\core\Employee.class
